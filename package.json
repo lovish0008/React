@@ -1,0 +1,26 @@
+{
+  "name": "reactl",
+  "version": "1.0.0",
+  "description": "",
+ 
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovish0008/ReactGitL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovish0008/ReactGitL/issues"
+  },
+  "homepage": "https://github.com/lovish0008/ReactGitL#readme",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  
+    "extends": "@parcel/config-default",
+    "resolvers": ["@parcel/resolver-glob"]
+  
+}
